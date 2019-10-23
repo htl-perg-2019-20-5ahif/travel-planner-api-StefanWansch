@@ -1,0 +1,8 @@
+D:\Schule\5.Klasse\Stropek\NVS\travel-planner-api-StefanWansch\TravelPlanner\TravelerClassLibrary\bin\Debug\netstandard2.1\TravelerClassLibrary.deps.json
+D:\Schule\5.Klasse\Stropek\NVS\travel-planner-api-StefanWansch\TravelPlanner\TravelerClassLibrary\bin\Debug\netstandard2.1\TravelerClassLibrary.dll
+D:\Schule\5.Klasse\Stropek\NVS\travel-planner-api-StefanWansch\TravelPlanner\TravelerClassLibrary\bin\Debug\netstandard2.1\TravelerClassLibrary.pdb
+D:\Schule\5.Klasse\Stropek\NVS\travel-planner-api-StefanWansch\TravelPlanner\TravelerClassLibrary\obj\Debug\netstandard2.1\TravelerClassLibrary.csprojAssemblyReference.cache
+D:\Schule\5.Klasse\Stropek\NVS\travel-planner-api-StefanWansch\TravelPlanner\TravelerClassLibrary\obj\Debug\netstandard2.1\TravelerClassLibrary.AssemblyInfoInputs.cache
+D:\Schule\5.Klasse\Stropek\NVS\travel-planner-api-StefanWansch\TravelPlanner\TravelerClassLibrary\obj\Debug\netstandard2.1\TravelerClassLibrary.AssemblyInfo.cs
+D:\Schule\5.Klasse\Stropek\NVS\travel-planner-api-StefanWansch\TravelPlanner\TravelerClassLibrary\obj\Debug\netstandard2.1\TravelerClassLibrary.dll
+D:\Schule\5.Klasse\Stropek\NVS\travel-planner-api-StefanWansch\TravelPlanner\TravelerClassLibrary\obj\Debug\netstandard2.1\TravelerClassLibrary.pdb
